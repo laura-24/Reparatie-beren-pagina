@@ -40,11 +40,12 @@ body{
 
 .page-content{
 	padding: 20px;
-	width: 750px;
+	width: 1000px;
 }
 
 h1{
 	background-color: #b68052;
+	width: 10000px;
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
