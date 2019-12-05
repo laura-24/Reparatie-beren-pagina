@@ -10,6 +10,7 @@ body{
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
+	font-family: monospace
 }
 
 .main-nav{
